@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Inibrith/inibrith** is a ✨ _special_ ✨ repository because its `README.md`}
-
 José Molinar
 
 🔭 I’m currently working on Functional Development R&D engineering at AUMOVIO.
